@@ -6,3 +6,4 @@ Ele será atualizado conforme novas adições de pastas/códigos.
 ## Projetos
 
 - [Calculadora](/Calculadora)
+- [Jogo de Texto](/GameTextBased/)
