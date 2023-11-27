@@ -6,7 +6,7 @@ Ele será atualizado conforme novas adições de pastas/códigos.
 ## Projetos
 
 ### [Calculadora](/Calculadora)
-Uma calculadora simples com as quatro operações básicas, em que é possível inserir nome do usuário [string] ao começar o programa, em seguida solicitando qual operação deseja fazer [int], bem como dois números [double] para fazer o cálculo.
+Uma calculadora simples com as quatro operações básicas, em que é possível inserir nome do usuário [string] ao começar o programa, em seguida solicitando qual operação deseja fazer [int], bem como dois números [double] para fazer o cálculo, e ainda dando opção de reutilizar ou não [char] a aplicação.
 
 ### [Jogo de Texto](/GameTextBased/)
 Um pequeno projeto que havia sido feito na época (reta final do 1º período) como "avaliação de recuperação" na matéria de "Programação I".
